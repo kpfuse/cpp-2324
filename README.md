@@ -15,3 +15,5 @@
 4) загрузить cpp-файлы в репозиторий
     или склонировать репозиторий на свой ПК и работать в нем,...
    
+02 - https://drive.google.com/file/d/1QZptcczrzZiHvsIC3xaSruMn7CWfT4Rx/view?usp=sharing
+
