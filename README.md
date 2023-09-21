@@ -1,4 +1,6 @@
 <h3>Лабораторные</h3>
+03 - https://drive.google.com/file/d/1ZlRfEMlwkZ1zNamlugzc5J39IX7vLr7G/view?usp=sharing
+</br></br>
 
 02 - https://drive.google.com/file/d/1QZptcczrzZiHvsIC3xaSruMn7CWfT4Rx/view?usp=sharing
 
