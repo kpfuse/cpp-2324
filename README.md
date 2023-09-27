@@ -1,7 +1,7 @@
 <h3>Лабораторные</h3>
 03 - https://drive.google.com/file/d/1ZlRfEMlwkZ1zNamlugzc5J39IX7vLr7G/view?usp=sharing
 
-Как сдать лабораторную работу 03 и индивидуальное домашнее задание:</br>
+Как сдать лабораторную работу 03 :</br>
    перейти по ссылке https://classroom.github.com/a/JKJyzNOY</br>
    загрузить свои файлы в репозиторий
 
