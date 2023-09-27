@@ -1,4 +1,10 @@
 <h3>Лабораторные</h3>
+04 - https://drive.google.com/file/d/1DozWRj7wq55FXqzSy4Ku75pR3jZjfau0/view?usp=sharing</br></br>
+Как сдать лабораторную работу 04 :</br>
+1) Пообщаться с преподавателем</br>
+2) загрузить файлы решения по ссылке https://classroom.github.com/a/N28V45bW</br>
+
+</br></br>
 03 - https://drive.google.com/file/d/1ZlRfEMlwkZ1zNamlugzc5J39IX7vLr7G/view?usp=sharing
 
 Как сдать лабораторную работу 03 :</br>
