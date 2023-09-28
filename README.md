@@ -36,7 +36,10 @@
 <h3>Лекции</h3>
 01- https://drive.google.com/file/d/1i3Ql1GIuXCKEJQURw9gJGbzjVnP1MUUm/view?usp=sharing 
 
-Курсы
+</br></br>
+Курсы </br></br>
+https://stepik.org/course/3094</br></br>
+https://stepik.org/lesson/56608</br></br>
 
 
 
