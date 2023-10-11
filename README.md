@@ -1,7 +1,7 @@
 <h3>Лабораторные</h3>
 05 - https://drive.google.com/file/d/1uguNjZxgn7S018s4y_kCocfAXm9051bd/view?usp=sharing</br></br>
 Как сдать лабораторную работу 05 :</br>
-перейти по ссылке 
+перейти по ссылке: https://classroom.github.com/a/NrAU_IsB <br> 
    загрузить свои файлы в репозиторий
    
 </br></br>
