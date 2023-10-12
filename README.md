@@ -1,4 +1,6 @@
 <h3>Лабораторные</h3>
+06 - https://drive.google.com/file/d/1BeUFv738ZyE0d_zz-KgDFIK2Io9QvZvM/view?usp=drive_link</br></br>
+
 05 - https://drive.google.com/file/d/1BeUFv738ZyE0d_zz-KgDFIK2Io9QvZvM/view?usp=sharing
 </br></br>
 Как сдать лабораторную работу 06 :</br>
