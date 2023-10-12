@@ -1,4 +1,13 @@
 <h3>Лабораторные</h3>
+05 - https://drive.google.com/file/d/1BeUFv738ZyE0d_zz-KgDFIK2Io9QvZvM/view?usp=sharing
+</br></br>
+Как сдать лабораторную работу 06 :</br>
+перейти по ссылке:  <br> 
+   загрузить свои файлы в репозиторий
+   
+</br></br>
+
+
 05 - https://drive.google.com/file/d/1uguNjZxgn7S018s4y_kCocfAXm9051bd/view?usp=sharing</br></br>
 Как сдать лабораторную работу 05 :</br>
 перейти по ссылке: https://classroom.github.com/a/NrAU_IsB <br> 
@@ -42,8 +51,8 @@
    
 
 <h3>Лекции</h3>
-01- https://drive.google.com/file/d/1i3Ql1GIuXCKEJQURw9gJGbzjVnP1MUUm/view?usp=sharing 
-
+01- https://drive.google.com/file/d/1i3Ql1GIuXCKEJQURw9gJGbzjVnP1MUUm/view?usp=sharing </br></br>
+02- https://drive.google.com/file/d/1PCWVJJOasgdM9DCyqX_m_VTqsvx6mpQY/view?usp=sharing </br></br>
 </br></br>
 Курсы </br></br>
 https://stepik.org/course/3094</br></br>
