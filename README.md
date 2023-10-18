@@ -1,4 +1,13 @@
 <h3>Лабораторные</h3>
+07 - https://drive.google.com/file/d/1kynuzVuEbR-tKQml3fsKoxic186xhBuS/view?usp=sharing </br></br>
+Как сдать лабораторную работу 06 :</br>
+перейти по ссылке: <br> 
+   загрузить свои файлы в репозиторий
+   
+</br></br>
+
+
+
 06 - https://drive.google.com/file/d/1ztT8SfXr3e2BEDWXm6FhuNDJfS6nKwL_/view?usp=sharing </br></br>
 Как сдать лабораторную работу 06 :</br>
 перейти по ссылке: https://classroom.github.com/a/SZpfK2Or  <br> 
