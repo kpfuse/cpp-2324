@@ -1,6 +1,6 @@
 <h3>Лабораторные</h3>
 08 - https://drive.google.com/file/d/1Udl49UHWKC3eK952daX2w4mu4uR_gSPB/view?usp=sharing</br></br>
-Как сдать лабораторную работу 08 : </br>
+Как сдать лабораторную работу 08 : https://classroom.github.com/a/ix4hgsyJ</br>
 перейти по ссылке: <br> 
    загрузить свои файлы в репозиторий
    
