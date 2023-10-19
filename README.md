@@ -1,7 +1,14 @@
 <h3>Лабораторные</h3>
-07 - https://drive.google.com/file/d/1kynuzVuEbR-tKQml3fsKoxic186xhBuS/view?usp=sharing </br></br>
-Как сдать лабораторную работу 07 : https://classroom.github.com/a/ihJCE8Dk</br>
+08 - https://drive.google.com/file/d/1Udl49UHWKC3eK952daX2w4mu4uR_gSPB/view?usp=sharing</br></br>
+Как сдать лабораторную работу 08 : </br>
 перейти по ссылке: <br> 
+   загрузить свои файлы в репозиторий
+   
+</br></br>
+
+07 - https://drive.google.com/file/d/1kynuzVuEbR-tKQml3fsKoxic186xhBuS/view?usp=sharing </br></br>
+Как сдать лабораторную работу 07 : k</br>
+перейти по ссылке: https://classroom.github.com/a/ihJCE8D<br> 
    загрузить свои файлы в репозиторий
    
 </br></br>
