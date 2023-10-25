@@ -7,8 +7,9 @@
 </br></br>
 
 07 - https://drive.google.com/file/d/1kynuzVuEbR-tKQml3fsKoxic186xhBuS/view?usp=sharing </br></br>
-Как сдать лабораторную работу 07 : k</br>
-перейти по ссылке: https://classroom.github.com/a/ihJCE8D<br> 
+Как сдать лабораторную работу 07 :</br>
+перейти по ссылке: 
+   https://classroom.github.com/a/ihJCE8Dk<br> 
    загрузить свои файлы в репозиторий
    
 </br></br>
