@@ -1,7 +1,7 @@
 <h3>Лабораторные</h3>
 09 - https://drive.google.com/file/d/1cVR2HLjSTYjf02EwQO9W9F3HdGMEpF7Q/view?usp=sharing</br></br>
-Как сдать лабораторную работу 09 : </br>
-перейти по ссылке: <br> 
+Как сдать лабораторную работу 09: </br>
+перейти по ссылке:  https://classroom.github.com/a/Gxkl4Ips<br> 
    загрузить свои файлы в репозиторий
    
 </br></br>
