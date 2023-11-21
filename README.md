@@ -2,7 +2,7 @@
 
 13 - https://drive.google.com/file/d/1IfIYoKFVQnrIuAKGDw3NtE0-VHygJeS2/view?usp=sharing </br></br>
 Как сдать лабораторную работу 13: </br>
-перейти по ссылке:  <br> 
+перейти по ссылке: https://classroom.github.com/a/M50RQIUo <br> 
    загрузить свои файлы в репозиторий
    
 </br></br>
