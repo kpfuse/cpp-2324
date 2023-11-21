@@ -105,6 +105,7 @@
 01- https://drive.google.com/file/d/1i3Ql1GIuXCKEJQURw9gJGbzjVnP1MUUm/view?usp=sharing </br></br>
 02- https://drive.google.com/file/d/1PCWVJJOasgdM9DCyqX_m_VTqsvx6mpQY/view?usp=sharing </br></br>
 03-04- https://drive.google.com/file/d/1AuA70Uer_F_8LV0y0K4GK0o4ul1rdCMB/view?usp=sharing</br></br>
+07 -  https://drive.google.com/file/d/1D-uHfBAA2gEOGCxt8dzfrjxGmpiGXaie/view?usp=sharing</br></br>
 </br></br>
 Курсы </br></br>
 https://stepik.org/course/3094</br></br>
