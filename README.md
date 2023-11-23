@@ -1,12 +1,17 @@
 <h3>Лабораторные</h3>
 
+14 - https://drive.google.com/file/d/1xZKEejolck9cNvDN-IkZ4AMORpTHlzSS/view?usp=sharing </br></br>
+Как сдать лабораторную работу 14:  </br>
+перейти по ссылке: https://classroom.github.com/a/kvKymCAu <br> 
+   загрузить свои файлы в репозиторий
+   
+</br></br>
 13 - https://drive.google.com/file/d/1IfIYoKFVQnrIuAKGDw3NtE0-VHygJeS2/view?usp=sharing </br></br>
 Как сдать лабораторную работу 13: </br>
 перейти по ссылке: https://classroom.github.com/a/M50RQIUo <br> 
    загрузить свои файлы в репозиторий
    
 </br></br>
-
 12 - https://drive.google.com/file/d/1Vd0c5gohF_7h8C8UfMOw7vdSdO3kfvT_/view?usp=sharing</br></br>
 Как сдать лабораторную работу 12: </br>
 перейти по ссылке: https://classroom.github.com/a/8udY4PzF <br> 
