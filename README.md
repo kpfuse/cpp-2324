@@ -1,6 +1,6 @@
 <h3>Лабораторные</h3>
-16 -  </br></br>
-Как сдать лабораторную работу 15: https://drive.google.com/file/d/1ljbOt7CfvYC3u5df96iY2LBkkkdllpIb/view?usp=sharing </br>
+16 -  https://drive.google.com/file/d/1ljbOt7CfvYC3u5df96iY2LBkkkdllpIb/view?usp=sharing </br></br>
+Как сдать лабораторную работу 16: </br>
 перейти по ссылке:  <br> 
    загрузить свои файлы в репозиторий
    
