@@ -1,5 +1,6 @@
-<h3>--</h3>
-****</br></br>
+<h3>Итоговый тест</h3>
+
+<img src="https://github.com/kpfuse/cpp-2324/blob/main/strings_ex/QR-Code(1).png" alt="Alt text" title="Optional title"></br></br>
 https://docs.google.com/forms/d/e/1FAIpQLSeSw49nLRT9VbVoOcsQvOwKGrmDSmzLxhw6MoMvA4xhf84A1g/viewform?usp=sf_link</br></br>
 
 
